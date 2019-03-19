@@ -1,2 +1,2 @@
-# TheLastLittleOne
-Personal Project (The List Little One) game in Unity
+# Project 3
+Project 3 in Unity
