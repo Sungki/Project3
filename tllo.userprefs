@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LeftServoController1.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ServoController.cs" Line="21" Column="26" />
+      <File FileName="Assets\Scripts\ServoController1.cs" Line="46" Column="29" />
+      <File FileName="Assets\Scripts\LeftServoController.cs" Line="52" Column="6" />
+      <File FileName="Assets\Scripts\LeftServoController1.cs" Line="61" Column="8" />
+      <File FileName="Assets\Scripts\Grabber.cs" Line="75" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
